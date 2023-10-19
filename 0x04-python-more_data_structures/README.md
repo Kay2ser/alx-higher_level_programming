@@ -1,1 +1,1 @@
-ALX - More data structures
+More data structures
